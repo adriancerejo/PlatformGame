@@ -1,0 +1,53 @@
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough\PlatformGame\bin\Debug\PlatformGame.exe.config
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough\PlatformGame\bin\Debug\PlatformGame.exe
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough\PlatformGame\bin\Debug\PlatformGame.pdb
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.csprojResolveAssemblyReference.cache
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.Form1.resources
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.Properties.Resources.resources
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.csproj.GenerateResource.Cache
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.exe
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.pdb
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.Pictures.resources
+C:\Users\Adrian\Desktop\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\bin\Debug\PlatformGame.exe.config
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\bin\Debug\PlatformGame.exe.config
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.csprojResolveAssemblyReference.cache
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.Form1.resources
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.Pictures.resources
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.Properties.Resources.resources
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.csproj.GenerateResource.Cache
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\bin\Debug\PlatformGame.exe
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\bin\Debug\PlatformGame.pdb
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.exe
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.pdb
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\073398380\Documents\ICS3U\Unit 4 - Classes and Methods\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.frmHelp.resources
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\bin\Debug\PlatformGame.exe.config
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.exe
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.pdb
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\bin\Debug\PlatformGame.exe
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\bin\Debug\PlatformGame.pdb
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.csprojResolveAssemblyReference.cache
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.frmHelp.resources
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.Pictures.resources
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.Properties.Resources.resources
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.csproj.GenerateResource.Cache
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.frmLevel1.resources
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.frmLevel2.resources
+C:\Users\073398380\Documents\CPT-Rough-20180528T004550Z-001-20180611T132727Z-001\CPT-Rough-20180528T004550Z-001\CPT-Rough\PlatformGame\obj\Debug\PlatformGame.frmMenu.resources
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\bin\Debug\PlatformGame.exe.config
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\obj\Debug\PlatformGame.exe
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\obj\Debug\PlatformGame.pdb
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\bin\Debug\PlatformGame.exe
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\bin\Debug\PlatformGame.pdb
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\obj\Debug\PlatformGame.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\obj\Debug\PlatformGame.frmLevel1.resources
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\obj\Debug\PlatformGame.frmHelp.resources
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\obj\Debug\PlatformGame.frmLevel2.resources
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\obj\Debug\PlatformGame.frmMenu.resources
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\obj\Debug\PlatformGame.Pictures.resources
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\obj\Debug\PlatformGame.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Culminating\PlatformGame\obj\Debug\PlatformGame.csproj.GenerateResource.Cache
